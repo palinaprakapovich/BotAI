@@ -9,7 +9,13 @@ Na razie ten bot może wykrywać tylko dwa rodzaje ptaków, więc przysyłaj mu 
 
 
 Instrukcja do korzystania z mojej aplikacji jest bardzo latwa:
-1.Skopiuj wszystkie pliki 
+
+1.Pobierz wszystkie pliki
+![image](https://github.com/user-attachments/assets/cb06e1ba-d9e3-454f-9869-995abcc653d4)
+
+2.Otwórz te pliki w folderze
+
+
 
 2.Wklej to w VSC, PyCharm albo inną aplikację do programowania
 
